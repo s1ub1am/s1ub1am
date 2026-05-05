@@ -1,10 +1,10 @@
 # 💫 About Me
 
 👋 Hi, I’m **Shubham Sabat**  
-👨‍💻 **GenAI Developer @ TCS**  
+👨‍💻 **AI Engineer @ TCS**  
 🎓 B.Sc Graduate | Ignite Trainee  
 
-I’m currently working as a **Generative AI Developer at TCS**, where I focus on learning and building intelligent systems.  
+I’m currently working as a **AI Engineer at TCS**, where I focus on learning and building intelligent systems.  
 My core interests lie in **Machine Learning**, **Generative AI**, and **backend-driven AI applications**.
 
 I enjoy learning by building — with the goal of creating **real-world, production-ready AI solutions**.
